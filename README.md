@@ -50,11 +50,4 @@ Le projet utilise une base de données SQLite avec une table `Livres`. Voici le 
 4.  **Exécuter l'application :**
     * Lance l'application en mode Debug (F5) ou en mode Release depuis Visual Studio.
 
-## Aperçu de l'Application
-
-Voici un aperçu de l'interface utilisateur de l'application :
-
-![Interface d'ajout de livre](https://raw.githubusercontent.com/KennyMDGCoder/DevoirCRUDLivre/main/screenshots/form_ajouter_livre.png)
-*(Remarque : Tu devras créer un dossier `screenshots` dans ton dépôt et y ajouter la capture d'écran de `Form1` si tu veux que cette image s'affiche.)*
-
 ---
